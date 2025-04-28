@@ -48,12 +48,17 @@ They sell through three key channels:
 
 Key highlights of the Power BI dashboard include:  
 - **Home Page**: Central navigation.
-(https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Executive%20View.png)
-- **Finance**: Enhances financial planning.  
-- **Sales**: Boosts revenue and market share.  
-- **Marketing**: Elevates brand visibility.  
-- **Supply Chain**: Optimizes inventory management.  
+![Home View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Home%20View.png)
+- **Finance**: Enhances financial planning.
+![Finance View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Finance%20View.png)
+- **Sales**: Boosts revenue and market share.
+![Sales View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Sales%20View.png) 
+- **Marketing**: Elevates brand visibility.
+![Marketing View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Marketing%20View.png)
+- **Supply Chain**: Optimizes inventory management.
+![Supply Chain View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Supply%20Chain%20View.png)
 - **Executive**: Provides top management overview.
+![Executive View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Executive%20View.png)
 
 ---
 
