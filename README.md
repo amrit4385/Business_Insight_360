@@ -51,6 +51,7 @@ Key highlights of the Power BI dashboard include:
 
 I. **Home View:**  
 Acts as the central navigation hub, offering seamless access to all dashboard sections along with a support guide and an information manual.
+
 ![Home View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Home%20View.png)
 
 II. **Finance View:**  
