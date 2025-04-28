@@ -11,7 +11,7 @@ The project was developed using **Microsoft Power BI Desktop 2.128.751.0** and p
 
 Below are sectional links for the project:
 
-- [BI 360 Live Report Link](#bi-360-live-report-link)
+- [BI 360 Live Report Link](#Business-Insights-360-Live-Report-Link)
 - [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used--methodologies-implemented)
@@ -25,7 +25,9 @@ Below are sectional links for the project:
 
 ---
 
-[Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+# [Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
 
 ## Introduction to AtliQ Hardware
 
