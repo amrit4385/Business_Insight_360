@@ -3,10 +3,6 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-FFB000?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrit4385)
 
-This repository serves as documentation for the **AtliQ Hardwares Business Insights 360 - Power BI Project**, created as a self-learning project for the course: *Get Job Ready: Power BI Data Analytics for All Levels 2.0* by Codebasics.
-
-The project was developed using **Microsoft Power BI Desktop 2.128.751.0** and published on **Microsoft Power BI Service**. Please note that project data files have not been uploaded to this repository in compliance with Codebasics' Data & Content Distribution Policy.
-
 ## Contents
 
 Below are sectional links for the project:
