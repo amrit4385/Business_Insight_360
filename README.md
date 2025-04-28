@@ -12,12 +12,12 @@ Below are sectional links for the project:
 - [BI 360 Live Report Link](#Business-Insights-360-Live-Report-Link)
 - [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
 - [Project Objective](#project-objective)
+- [BI 360 Report Overview](#bi-360-report-overview)
 - [Tools used & Methodologies implemented](#Tools-Used)
 - [About the Dataset](#about-the-dataset)
 - [Data Integrity](#data-integrity)
 - [Data Model](#data-model)
 - [Project Implementation](#project-implementation)
-- [BI 360 Report Overview](#bi-360-report-overview)
 - [Conclusion](#conclusion)
 
 ---
