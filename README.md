@@ -102,8 +102,6 @@ From Excel Files:
 ---
 
 ## Data Model
-
-Details regarding table relationships, calculated columns, and normalization are documented in the project implementation section.
 ![Data Model](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Data%20Model%20Final.PNG)
 ---
 
