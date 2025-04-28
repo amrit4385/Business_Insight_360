@@ -3,6 +3,8 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-FFB000?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrit4385)
 
+Welcome to the documentation for the **AtliQ Hardwares Business Insights 360 - Power BI Project**. This project was developed as part of a comprehensive self-learning initiative, leveraging the capabilities of **Microsoft Power BI Desktop** for data analysis, visualization, and reporting. The final implementation has been successfully published on the **Microsoft Power BI Service**, showcasing advanced analytics and interactive dashboards.
+
 ## Contents
 
 Below are sectional links for the project:
