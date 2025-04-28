@@ -1,115 +1,136 @@
 # Business Insights 360 - Power BI Project
 
-[![Power BI](https://img.shields.io/badge/Power_BI-FFB000?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-FFB000?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrit4385)
 
-**A comprehensive business intelligence solution for AtliQ Hardware**  
-*Developed as part of the "Get Job Ready: Power BI Data Analytics for All Levels 2.0" course by Codebasics*
+This repository serves as documentation for the **AtliQ Hardwares Business Insights 360 - Power BI Project**, created as a self-learning project for the course: *Get Job Ready: Power BI Data Analytics for All Levels 2.0* by Codebasics.
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Business+Insights+360+Dashboard+Preview)
+The project was developed using **Microsoft Power BI Desktop 2.128.751.0** and published on **Microsoft Power BI Service**. Please note that project data files have not been uploaded to this repository in compliance with Codebasics' Data & Content Distribution Policy.
 
-## 📌 Table of Contents
-- [Project Overview](#-project-overview)
-- [Business Context](#-business-context)
-- [Technical Implementation](#-technical-implementation)
-- [Data Architecture](#-data-architecture)
-- [Key Features](#-key-features)
-- [Report Structure](#-report-structure)
-- [Learning Outcomes](#-learning-outcomes)
-- [Conclusion](#-conclusion)
-- [Compliance Notice](#-compliance-notice)
+![Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 🌐 Project Overview
-**Business Insights 360** is an enterprise-grade Power BI solution developed for AtliQ Hardware, addressing critical challenges in:
-- Financial planning & analysis
-- Sales performance optimization
-- Marketing ROI measurement
-- Supply chain management
-- Executive decision-making
+## Contents
 
-**Core Components:**
-- 6 Interactive Dashboards
-- 5 Million+ Transaction Records Analyzed
-- 11 Integrated Data Sources
-- 50+ Custom DAX Measures
+Below are sectional links for the project:
 
-## 🏢 Business Context
-### Company Profile
-- **Industry:** Computer Hardware & Peripherals
-- **Business Models:** B2B (90%), B2C (10%)
-- **Key Channels:** 
-  - Retailers (Brick & Mortar & E-commerce)
-  - Direct (AtliQ E-store/Exclusive)
-  - Distributors
-
-### Strategic Challenge
-After facing unexpected losses in new markets, AtliQ recognized the need to:
-1. Transition from Excel-based analysis to modern BI
-2. Establish data-driven decision-making culture
-3. Develop cross-functional performance metrics
-
-## 💻 Technical Implementation
-### Tech Stack
-| Component               | Tools/Technologies Used          |
-|-------------------------|-----------------------------------|
-| Data Integration        | MySQL, Excel, CSV                |
-| ETL & Transformation    | Power Query                       |
-| Data Modeling           | Star Schema, DAX                  |
-| Visualization           | Power BI Desktop    |
-| Deployment              | Power BI Service                 |
-
-### Advanced Features
-- Dynamic fiscal year parameters
-- Custom tooltips with trend analysis
-- Context-aware measure switching
-- Hierarchical drill-throughs
-- Automated data quality checks
-
-## 🗃️ Data Architecture
-### Dataset Overview
-| Source Type        | Tables Included                 | Record Count    |
-|--------------------|---------------------------------|-----------------|
-| MySQL Database     | dim_customer, dim_market, etc. | 1.8M+           |
-| Excel Files        | market_share, ns_gm_target     | 1,000+          |
-| CSV Files          | freight_cost, manufacturing    | 100,000+        |
-
-### Data Model
-mermaid
-graph LR
-A[Date Table] --> B[Fact Sales]
-A --> C[Fact Forecast]
-D[dim_product] --> B
-D --> C
-E[dim_market] --> B
-E --> C
-F[dim_customer] --> B
+- BI 360 Live Report Link
+- Introduction to AtliQ Hardware
+- Project Objective
+- Tools used & Methodologies implemented
+- About the Dataset
+- Data Sources
+- Data Integrity
+- Data Model
+- Project Implementation
+- BI 360 Report Overview
+- Conclusion
 
 ---
 
-## 🎯 Conclusion
-This end-to-end Power BI solution delivers transformative business intelligence capabilities to AtliQ Hardware by:
+## Introduction to AtliQ Hardware
 
-1. **Centralizing Disparate Data Sources**  
-   - Unified 11 datasets across MySQL, Excel, and CSV into a single analytics platform
+**Domain**: Consumer Goods  
+**Functions**: Finance, Sales, Marketing, Supply Chain, Executive  
 
-2. **Enabling Data-Driven Decisions**  
-   - Real-time visibility into financial performance, sales trends, and supply chain metrics
-
-3. **Replacing Manual Processes**  
-   - Automated previously Excel-based reporting with interactive dashboards
-
-4. **Revealing Actionable Insights**  
-   - Identified opportunities to improve gross margins by 8-12% in key markets
-
-**Business Impact Achieved:**
-- 40% reduction in financial reporting time
-- 25% improvement in forecast accuracy
-- Enabled cross-departmental KPI alignment
+**AtliQ Hardwares** specializes in computer hardware and peripherals like PCs, mice, and printers, serving clients worldwide. The company operates under a predominantly B2B business model, selling products to stores such as **Croma**, **Best Buy**, **Staples**, and **Flipkart**, which then retail these products to end users.  
+They sell through three key channels:  
+1. **Retailer**: Brick & Mortar (e.g., Croma, Best Buy) and E-commerce (e.g., Amazon, Flipkart).  
+2. **Direct**: AtliQ-owned stores like **AtliQ E-store** and **AtliQ Exclusive**.  
+3. **Distributor**: For countries with restricted trade, e.g., **Neptune**.
 
 ---
 
-## ⚠️ Compliance Notice
-**Dataset Availability:**  
-*Project data files are not included in this repository in compliance with Codebasics' Data & Content Distribution Policy.*
+## Project Objective
+
+**Challenge:** Unexpected losses after expanding operations in America due to reliance on outdated Excel methods for data analysis.  
+**Solution:** Implement **Microsoft Power BI** for analytics to leverage data and support informed decision-making, enabling AtliQ Hardware to outperform competitors.  
+
+Key highlights of the Power BI dashboard include:  
+- **Home Page**: Central navigation.  
+- **Finance**: Enhances financial planning.  
+- **Sales**: Boosts revenue and market share.  
+- **Marketing**: Elevates brand visibility.  
+- **Supply Chain**: Optimizes inventory management.  
+- **Executive**: Provides top management overview.
+
+---
+
+## Tools Used
+
+- **Microsoft Power BI**: Data ETL, Data Modelling, Data Visualization, Dashboarding  
+- **GitHub**: Documentation  
+
+---
+
+## Skills & Methodologies Implemented
+
+- Data Cleaning (Power Query)
+- Data Manipulation (DAX Measures & Columns, Numeric & Field Parameters)
+- Data Modelling
+- Data Visualization (Conditional Formatting, Custom Tooltip)
+- Dashboarding (Filters, Slicers, Bookmarks, Page Navigation)
+- Report Publishing (PBI Service & Report Optimization)
+- Documentation
+
+---
+
+## About the Dataset
+
+The dataset contains **11 tables** sourced from **MySQL Server** and **Excel Files**.  
+Key highlights:  
+- **Comprehensiveness**: ~5.8 million records.  
+- **Relevance**: Updated to FY 2022.  
+- **Citation**: Official reference available.
+
+**Data Sources:**  
+From MySQL Server:  
+- dim_customer, dim_market, dim_product, fact_forecast_monthly, fact_sales_monthly, freight_cost, manufacturing_cost, post_invoice_deductions  
+
+From Excel Files:  
+- market_share, operational_expense, ns_gm_target  
+
+---
+
+## Data Integrity (ROCCC Evaluation)
+
+- **Reliability**: Medium  
+- **Originality**: High  
+- **Comprehensiveness**: High  
+- **Current**: Medium  
+- **Citation**: High  
+
+---
+
+## Data Model
+
+Details regarding table relationships, calculated columns, and normalization are documented in the project implementation section.
+![Data Model](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Data%20Model%20Final.PNG)
+---
+
+## Project Implementation
+
+The project was executed in **9 phases**. Key tasks include:  
+- **Phase 1**: Data Wrangling with MySQL and Power BI.  
+- **Phase 2**: ETL operations with Power Query (e.g., creating custom Date Table).  
+- **Phase 3**: Data Modelling & Calculated Columns (e.g., Gross Margin Calculations).  
+- **Phase 4-9**: Development of Dashboard Views (Finance, Sales, Marketing, Supply Chain, Executive) with interactive visuals.  
+
+---
+
+## BI 360 Report Overview
+
+1. **Home View**: Central navigation hub with support manual.  
+2. **Finance View**: Features P&L Statement, Net Sales trends, and breakdowns.  
+3. **Sales View**: Tracks customer performance and Gross Margin % variance.  
+4. **Marketing View**: Evaluates ROI and segment performance.  
+5. **Supply Chain View**: Displays forecast accuracy and inventory risks.  
+6. **Executive View**: High-level overview with KPIs and Market Share trends.
+
+---
+
+## Conclusion
+
+The AtliQ Hardwares Power BI dashboard offers a comprehensive analysis across Finance, Sales, Marketing, Supply Chain, and Executive functions. By integrating critical metrics (Net Sales, Gross Margin, etc.) with interactive visualizations, the project empowers leadership with actionable insights for strategic decisions.
+
 
 ---
