@@ -47,7 +47,8 @@ They sell through three key channels:
 **Solution:** Implement **Microsoft Power BI** for analytics to leverage data and support informed decision-making, enabling AtliQ Hardware to outperform competitors.  
 
 Key highlights of the Power BI dashboard include:  
-- **Home Page**: Central navigation.  
+- **Home Page**: Central navigation.
+(https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Executive%20View.png)
 - **Finance**: Enhances financial planning.  
 - **Sales**: Boosts revenue and market share.  
 - **Marketing**: Elevates brand visibility.  
