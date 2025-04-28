@@ -7,25 +7,25 @@ This repository serves as documentation for the **AtliQ Hardwares Business Insig
 
 The project was developed using **Microsoft Power BI Desktop 2.128.751.0** and published on **Microsoft Power BI Service**. Please note that project data files have not been uploaded to this repository in compliance with Codebasics' Data & Content Distribution Policy.
 
-![Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 ## Contents
 
 Below are sectional links for the project:
 
-- BI 360 Live Report Link
-- Introduction to AtliQ Hardware
-- Project Objective
-- Tools used & Methodologies implemented
-- About the Dataset
-- Data Sources
-- Data Integrity
-- Data Model
-- Project Implementation
-- BI 360 Report Overview
-- Conclusion
+- [BI 360 Live Report Link](#bi-360-live-report-link)
+- [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
+- [Project Objective](#project-objective)
+- [Tools used & Methodologies implemented](#tools-used--methodologies-implemented)
+- [About the Dataset](#about-the-dataset)
+- [Data Sources](#data-sources)
+- [Data Integrity](#data-integrity)
+- [Data Model](#data-model)
+- [Project Implementation](#project-implementation)
+- [BI 360 Report Overview](#bi-360-report-overview)
+- [Conclusion](#conclusion)
 
 ---
+
+[Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGQ1ZjFmNTMtZDJiYi00NmI5LWIwYzQtNzEzODcyMTlmZmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Introduction to AtliQ Hardware
 
@@ -91,13 +91,24 @@ From Excel Files:
 
 ---
 
-## Data Integrity (ROCCC Evaluation)
+## Data Integrity
 
-- **Reliability**: Medium  
-- **Originality**: High  
-- **Comprehensiveness**: High  
-- **Current**: Medium  
-- **Citation**: High  
+### ROCCC Evaluation
+
+- **Reliability**: **Moderate**  
+  The dataset originates from Codebasics and consists of nine files. Each file was utilized effectively during the analysis.
+
+- **Originality**: **High**  
+  Provided directly by Codebasics, the dataset is a first-party resource.
+
+- **Comprehensiveness**: **High**  
+  With 11 files and approximately 5.8 million records, the dataset includes diverse dimensions for customer and product attributes, as well as extensive sales transaction data.
+
+- **Current**: **Moderate**  
+  Reflecting data up to FY 2022, the dataset is nearly two years old. Thus, trends and insights should be considered general patterns rather than time-specific findings.
+
+- **Citation**: **High**  
+  Proper references and citations ensure the credibility of the dataset.  
 
 ---
 
