@@ -50,28 +50,39 @@ Key highlights of the Power BI dashboard include:
 ## BI 360 Report Overview
 
 I. **Home View:**  
+
 Acts as the central navigation hub, offering seamless access to all dashboard sections along with a support guide and an information manual.
 
 ![Home View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Home%20View.png)
 
 II. **Finance View:**  
+
 Provides tools for improved financial planning and cost management, including a Profit & Loss statement, visualized trends in Net Sales, and detailed breakdowns by product categories and customer segments.
+
 ![Finance View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Finance%20View.png)
 
 III. **Sales View:**  
+
 Centers around enhancing revenue growth and monitoring customer performance, presenting insights like Gross Margin percentage variations across various customers and products.
+
 ![Sales View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Sales%20View.png) 
 
 IV. **Marketing View:**  
+
 Focuses on increasing brand awareness and evaluating the effectiveness of marketing strategies, offering insights into segment performance, regional Net Profit percentage trends, and campaign ROI.
+
 ![Marketing View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Marketing%20View.png)
 
 V. **Supply Chain View:**  
+
 Supports better inventory management and demand forecasting through visuals that highlight forecast accuracy and assess stock risks associated with specific products or customers.
+
 ![Supply Chain View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Supply%20Chain%20View.png)
 
 VI. **Executive View:**  
+
 Provides a comprehensive summary for senior management, featuring critical business KPIs, revenue distribution across divisions and channels, top-performing customers and products, and trends in AtliQ’s market share.
+
 ![Executive View](https://github.com/amrit4385/Business_Insight_360/blob/main/Images/Executive%20View.png)
 
 ---
